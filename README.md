@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Several years of experience as a Senior PHP developer with strong knowledge of OOP and design patterns, working with different PHP frameworks such as Laravel and Symfony. 
+
+- 🔭 I’m currently working with [Amboss Med](https://amboss.com) as Senior Backend Engineer 
+- 🌱 I’m currently learning Clojure
+- 👯 I’m looking to collaborate on various open softwares
+- 📫 How to reach me: [Twitter](https://twitter.com/terdia07)
+
 <!--
 **terdia/terdia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
