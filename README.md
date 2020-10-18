@@ -3,8 +3,13 @@
 Several years of experience as a Senior PHP developer with strong knowledge of OOP and design patterns, working with different PHP frameworks such as Laravel and Symfony. 
 
 - 🔭 I’m currently working with [Amboss Med](https://amboss.com) as Senior Backend Engineer 
-- 🌱 I’m currently learning Clojure
-- 👯 I’m looking to collaborate on various open softwares
+- 🌱 I’m currently learning Clojure & Golang
+
+- 👯 I’m looking to collaborate on various open softwares, currently I'm working on:
+  🔭 - [HeadFirstDesignPatternsPHP](https://github.com/terdia/HeadFirstDesignPatternsPHP) 
+  🔭 - [Currency-util](https://github.com/terdia/currency-util) 
+  🔭 - [Legato a mini-PHP Framework](https://github.com/terdia/legato-framework) 
+  
 - 📫 How to reach me: [Twitter](https://twitter.com/terdia07)
 
 <!--
