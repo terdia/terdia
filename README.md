@@ -8,7 +8,7 @@ Several years of experience as a Senior PHP developer with strong knowledge of O
   - [HeadFirstDesignPatternsPHP](https://github.com/terdia/HeadFirstDesignPatternsPHP) 
   - [Currency-util](https://github.com/terdia/currency-util) 
   - [Legato a mini-PHP Framework](https://github.com/terdia/legato-framework) 
-- 📫 How to reach me: [Twitter](https://twitter.com/terdia07)
+
 
 <!--
 **terdia/terdia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,4 +23,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📫 How to reach me: [Twitter](https://twitter.com/terdia07)
 -->
