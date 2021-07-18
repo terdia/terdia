@@ -5,6 +5,7 @@ Several years of experience as a Senior PHP developer with strong knowledge of O
 - 🔭 I’m currently working with [Amboss Med](https://amboss.com) as Senior Backend Engineer 
 - 🌱 I’m currently learning Clojure & Golang
 - 👯 I’m looking to collaborate on various open softwares, currently I'm working on:
+  - [DataStructureAndAlgorithmsPHP](https://github.com/terdia/DataStructureAndAlgorithmsPHP) 
   - [HeadFirstDesignPatternsPHP](https://github.com/terdia/HeadFirstDesignPatternsPHP) 
   - [Currency-util](https://github.com/terdia/currency-util) 
   - [Legato a mini-PHP Framework](https://github.com/terdia/legato-framework) 
