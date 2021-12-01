@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Several years of experience as a Senior PHP developer with strong knowledge of OOP and design patterns, working with different PHP frameworks such as Laravel and Symfony. 
+Several years of experience as a Senior PHP developer with strong knowledge of OOP and design patterns, working with different PHP frameworks such as Laravel and Symfony. Nowadays basking in Goland.
 
 - 🔭 I’m currently working with [ChargePoint, Inc](https://chargepoint.com/) as Staff Software Engineer - OCPP
 - 💬  Previously worked at [Amboss Med](https://amboss.com) as Senior Backend Engineer 
