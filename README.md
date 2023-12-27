@@ -2,9 +2,9 @@
 
 Several years of experience as a Senior PHP developer with strong knowledge of OOP and design patterns, working with different PHP frameworks such as Laravel and Symfony. Nowadays basking in Goland.
 
-- 🔭 [ChargePoint, Inc](https://chargepoint.com/) as Staff Software Engineer - OCPP
+- 🔭 [ChargePoint, Inc](https://chargepoint.com/) as Staff Software Engineer
 - 💬  Previously worked at [Amboss Med](https://amboss.com) as Senior Backend Engineer 
-- 🌱 I’m currently working with extensively with Golang
+- 🌱 I’m currently working extensively with Golang & PHP 
 - 👯 I’m looking to collaborate on various open softwares, currently I'm working on:
   - [DataStructureAndAlgorithmsPHP](https://github.com/terdia/DataStructureAndAlgorithmsPHP) 
   - [HeadFirstDesignPatternsPHP](https://github.com/terdia/HeadFirstDesignPatternsPHP) 
